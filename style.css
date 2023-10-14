@@ -190,7 +190,7 @@ a{
 }
 
 h4,h1,p{
-    color: white;
+    color: white!important;
 }
 
 a:active,a:visited,a:link{
